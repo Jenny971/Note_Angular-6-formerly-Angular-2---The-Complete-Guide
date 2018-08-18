@@ -1,0 +1,10 @@
+routing-start
+A project with three sections
+	Home
+	Servers
+		View and Edit Servers
+		A Service is used to load and update Servers
+	Users
+		View Users
+Use as the start for routing practice.
+
