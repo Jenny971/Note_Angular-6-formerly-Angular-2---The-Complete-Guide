@@ -8,6 +8,15 @@ Watch in order might be a better way for this course.
 
 
 ### Section 1: Getting Started
+- Angular: A JavaScript Framework which allows you to create reactive Single-Page-Applications
+- Angular.js(Angular 1) / Angular
+- [CLI](https://github.com/angular/angular-cli/wiki)
+- ng new / ng serve
+- file generate by ng new (first-app)
+    - to use ngModel, import FormsModule in app.module.ts imports
+- Course structure
+- TypeScript: Superset to JavaScript
+- A Basic Project Setup using Bootstrap for Styling (project-template)
 
 ### Section 2: The Basics
 
